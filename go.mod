@@ -1,4 +1,4 @@
-module github.com/NonsoAmadi10/bitcoin-wallet
+module github.com/0xciph3r/bitcoin-wallet
 
 go 1.17
 

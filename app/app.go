@@ -3,7 +3,7 @@ package app
 import (
 	"net/http"
 
-	"github.com/NonsoAmadi10/bitcoin-wallet/controllers"
+	"github.com/0xciph3r/bitcoin-wallet/controllers"
 	"github.com/go-playground/validator/v10"
 	_ "github.com/joho/godotenv/autoload"
 	"github.com/labstack/echo/v4"

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	App "github.com/NonsoAmadi10/bitcoin-wallet/app"
+	App "github.com/0xciph3r/bitcoin-wallet/app"
 )
 
 func main() {
